@@ -41,3 +41,28 @@ h2 {
     font-size: 18px;
     margin-top: 10px;
 }
+
+
+.dream-cars-list {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+.dream-cars-list li {
+    margin: 20px 0;
+}
+
+.car-pic {
+    width: 250px;
+    height: auto;
+    border-radius: 10px; 
+    display: block;
+    margin: 0 auto;
+}
+
+.dream-cars-list p {
+    font-size: 18px;
+    margin-top: 10px;
+    font-weight: bold;
+}
